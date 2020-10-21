@@ -1,5 +1,5 @@
 # Animation Texture Baker for Unity
-
+https://medium.com/tech-at-wildlife-studios/texture-animation-techniques-1daecb316657
 ## Description
 
 - Bake vertex of Animation(legacy) to Texture2D
